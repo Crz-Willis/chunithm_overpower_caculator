@@ -1,4 +1,4 @@
-Simply replace with your personal API and run all cells.
+Simply replace with your personal API of lxns and run all cells.
 
 You can get a DataFrame as follows in the last cell.
 
